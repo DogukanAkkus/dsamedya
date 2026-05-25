@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dsagrowup.com/sitemap.xml
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
